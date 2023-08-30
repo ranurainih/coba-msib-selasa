@@ -1,2 +1,3 @@
 project selasa 29 agustus
 push git
+disini ada tambahan text
